@@ -2,5 +2,5 @@
 Ornare -- ornament constructor
 
 * theory: group theory
-* tools: javascript
+* tools: p5.js, processing
  
