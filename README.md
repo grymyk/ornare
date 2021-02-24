@@ -1,5 +1,6 @@
 # ornare
 Ornare -- ornament constructor
 
-tools: maths, javascript
+theory: group theory
+tools: javascript
  
